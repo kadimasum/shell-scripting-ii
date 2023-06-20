@@ -1,2 +1,2 @@
 # shell-scripting-ii
-![poster]("kadima shell 2 wide.jpeg")
+![poster](images/kadima_shell _2_ wide.jpeg)
