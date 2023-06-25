@@ -28,8 +28,8 @@ In order to give you the best experience, I have written a number of articles  w
 1. Linux: File Permission: [Link to article](https://medium.com/@kadimasam/linux-file-permissions-5aa08015f9e5)
 
 ## Slides
-> Shell Scripting Introductory Slides: [Link](https://docs.google.com/presentation/d/1z-eNXvZ1PA0gjYFvtOT-8iQTVprN-mnBOAzBXN7CoZI/edit?usp=sharing)
-> Nairobi Devops Community Slides:[Link](https://docs.google.com/presentation/d/1z9u-nVjxIW4Wk5YtaE_0EK4e-wN7gEhNv2wx32ELAEI/edit?usp=sharing)
+* Shell Scripting Introductory Slides: [Link](https://docs.google.com/presentation/d/1z-eNXvZ1PA0gjYFvtOT-8iQTVprN-mnBOAzBXN7CoZI/edit?usp=sharing)
+* Nairobi Devops Community Slides:[Link](https://docs.google.com/presentation/d/1z9u-nVjxIW4Wk5YtaE_0EK4e-wN7gEhNv2wx32ELAEI/edit?usp=sharing)
 
 
 
